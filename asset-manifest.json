@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tindog_0/static/css/main.754ebb54.css",
+    "main.js": "/tindog_0/static/js/main.d6f8056c.js",
+    "static/js/787.8ca7dc99.chunk.js": "/tindog_0/static/js/787.8ca7dc99.chunk.js",
+    "index.html": "/tindog_0/index.html",
+    "main.754ebb54.css.map": "/tindog_0/static/css/main.754ebb54.css.map",
+    "main.d6f8056c.js.map": "/tindog_0/static/js/main.d6f8056c.js.map",
+    "787.8ca7dc99.chunk.js.map": "/tindog_0/static/js/787.8ca7dc99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754ebb54.css",
+    "static/js/main.d6f8056c.js"
+  ]
+}
